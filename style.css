@@ -13,11 +13,12 @@ body
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vw;
+  height: 100vh;
 }
 
 * {
   font: inherit;
+  /* border: 1px solid; */
 }
 
 body {
@@ -26,6 +27,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: 0;
 }
 
 .timer input {
